@@ -12,6 +12,6 @@ public class superw extends A
     public static void main(String[] args)
     {
         superw obj=new superw();
-        obj.show(obj.a);
+        obj.show(obj.a);zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
     }
 }
